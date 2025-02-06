@@ -1,0 +1,20 @@
+{
+  "name": "ex04",
+  "version": "1.0.0",
+  "main": "ex01.js",
+  "scripts": {
+    "start": "node ex02",
+    "dev": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
